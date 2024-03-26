@@ -3,7 +3,7 @@ package quiz;
 /*
  * 비교연산자와 논리연산자
  * */
-public class Quiz8 {
+public class Quiz_08 {
 
 	public static void main(String[] args) {
 

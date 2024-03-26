@@ -5,7 +5,7 @@ package quiz;
  * 1. 7이 홀수라면 true 출력하세요 
  * 2. 10이 짝수라면 true 출력하세요
  */
-public class Quiz6 {
+public class Quiz_06 {
 
 	public static void main(String[] args) {
 

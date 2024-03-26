@@ -3,7 +3,7 @@ package main;
 /*
  * 비교연산자
  * */
-public class Ex5 {
+public class Ex_05 {
 
 	public static void main(String[] args) {		
 		int x = 5;

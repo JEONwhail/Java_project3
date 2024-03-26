@@ -3,7 +3,7 @@ package main;
 /*
  * 산술연산자
  * */
-public class Ex3 {
+public class Ex_03 {
 
 	public static void main(String[] args) {
 

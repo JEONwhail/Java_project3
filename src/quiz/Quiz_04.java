@@ -8,7 +8,7 @@ package quiz;
  * 국어점수 korScore 100
  * 점수의 총점과 평균를 구하세요
  * */
-public class Quiz4 {
+public class Quiz_04 {
 
 	public static void main(String[] args) {
 

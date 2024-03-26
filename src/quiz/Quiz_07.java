@@ -4,7 +4,7 @@ package quiz;
  * 논리연산자
  * 코드를 보고 연산과정과 결과값을 주석으로 작성하세요
  * */
-public class Quiz7 {
+public class Quiz_07 {
 
 	public static void main(String[] args) {
 

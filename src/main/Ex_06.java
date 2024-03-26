@@ -3,7 +3,7 @@
  /*
   * 논리연산자
   * */
-public class Ex6 {
+public class Ex_06 {
 
 	public static void main(String[] args) {
 		int x = 5;

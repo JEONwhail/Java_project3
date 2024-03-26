@@ -6,7 +6,7 @@ package quiz;
  * 2. 본인의 나이가 40세라면 true 출력
  * 3. 본인의 나이가 40세가 아니라면 true 출력
  * */
-public class Quiz5 {
+public class Quiz_05 {
 
 	public static void main(String[] args) {
 		int myAge = 25;

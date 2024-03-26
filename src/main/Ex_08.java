@@ -3,7 +3,7 @@ package main;
 /*
  * 삼항연산자
  * */
-public class Ex8 {
+public class Ex_08 {
 
 	public static void main(String[] args) {
 		// 삼항연산자를 사용해서 부모님의 나이 비교하기

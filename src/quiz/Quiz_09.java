@@ -5,7 +5,7 @@ package quiz;
  * 1. 숫자 5가 숫자3보다 크면, 문자 '오' 아니면 문자 '삼' 출력하세요
  * 2. 코드를 보고 예상 결과와 풀이과정을 주석으로 작성하세요
  * */
-public class Quiz9 {
+public class Quiz_09 {
 
 	public static void main(String[] args) {
 		//정답

@@ -3,7 +3,7 @@ package main;
 /*
  * 대입연산자
  * */
-public class Ex7 {
+public class Ex_07 {
 
 	public static void main(String[] args) {
 

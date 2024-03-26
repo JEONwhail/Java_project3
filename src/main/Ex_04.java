@@ -4,7 +4,7 @@ package main;
  * 산술연산자
  * 연산과정 확인하기
  * */
-public class Ex4 {
+public class Ex_04 {
 
 	public static void main(String[] args) {
 

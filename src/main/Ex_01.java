@@ -3,7 +3,7 @@ package main;
 /* 테스트입니다!!
  * 부호연산자
  * */
-public class Ex1 {
+public class Ex_01 {
 
 	public static void main(String[] args){
 		int num1 = 10;
