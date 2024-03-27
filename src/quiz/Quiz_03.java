@@ -12,7 +12,7 @@ public class Quiz_03 {
 		int num = 456;
 		int result = num/100 * 100;
 		
-		System.out.println("결과: " + result);
+		System.out.println(result);
 	}
 
 }
